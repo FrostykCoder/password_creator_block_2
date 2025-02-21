@@ -23,13 +23,16 @@ Shuffle: The combined characters are shuffled.
 
 ## Warnings and Limitations
 
-- This tool is for educational purposes only and for my own fun.
+- This tool does not guarantee robust, cryptographically secure passwords. It’s intended to demonstrate basic password generation concepts and for my own fun.
 - It does not comprehensively make secure or good passwords; it’s simple.
-- Do not rely on it to make you a foolproof passport.
+- Including a known word or phrase can make the password easier to guess if
+an attacker knows that phrase. Be cautious about using personal details
+- Do not rely on it to make you a foolproof passport, follow best practices for password creation
+ and avoid reusing passwords across services.
 
 ## Ethical Considerations
 
 - This tool could be used to make extremely predictable passwords, for example if you know what word someone
   might use, and that they used this tool it can be used againts them.
-- This too may let some users believe that it produces secure passwords, but this security isn't backed by anything
-  beyond passwrod length and a few layers of randomness (From pytong methods at that)
+- This tool may lead some users to believe that the password they got is a secure password, but this security isn't backed by anything
+  beyond passwrod length and a few layers of randomness (From python method at that)
