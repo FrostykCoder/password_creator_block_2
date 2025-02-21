@@ -16,9 +16,10 @@ Shuffle: The combined characters are shuffled.
 
 ## How to Run
 
-1. Clone this repository or download `password_gen.py`.
-2. In your terminal, run `python password_gen.py`.
-3. Enter a word and length of password when prompted.
+1. Clone this repository or download `password_gen.py`. 
+2. Ensure Python is installed, you will need 3.7 or higher.
+3. In your terminal, run `python password_gen.py`.
+4. Enter a word and length of password when prompted.
 
 ## Warnings and Limitations
 
